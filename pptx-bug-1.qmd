@@ -2,7 +2,7 @@
 title: "pptx-bug-1"
 format: 
     revealjs: default
-    #pptx: default
+    pptx: default
 ---
 
 ## Quarto {background-image="/img/quarto.png" background-size="contain" background-opacity=0.1}
