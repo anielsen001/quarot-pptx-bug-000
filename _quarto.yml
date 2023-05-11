@@ -1,0 +1,6 @@
+project:
+  title: "pptx-bug-1"
+
+format: 
+  revealjs: default
+  pptx: default

@@ -1,0 +1,10 @@
+---
+title: "pptx-bug-1"
+format: 
+    revealjs: default
+    #pptx: default
+---
+
+## Quarto {background-image="/img/quarto.png" background-size="contain" background-opacity=0.1}
+
+Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
